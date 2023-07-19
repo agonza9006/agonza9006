@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Ashley Gonzalez Asgonzalez1@my.waketech.edu This repository is for my CTI class. I had a little bit of trouble creating it, but Im good now.
 
 <!--
 **agonza9006/agonza9006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
